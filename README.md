@@ -12,7 +12,8 @@ To create the project you require the following commands to install in your virt
 
 Install the packages in requirements.txt by adding them a folder and opening command prompt. Which is on the location of the requirement.txt. Preferablly inside virtual env too
 
-```pip install - r requriments.txt
+```
+pip install - r requriments.txt
 ```
 
 Will update rest of the walkthrough soon
