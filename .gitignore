@@ -2,3 +2,6 @@ Lib
 Scripts
 include
 pyvenv.cfg
+*.png
+cred.json
+db.sqlite3
